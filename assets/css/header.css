@@ -1,8 +1,7 @@
 .nav-container {
   display: flex;
   justify-content: center;
-  position: relative;
-  top: 60px;
+  margin: 80px 0 100px 0;
 }
 
 .menu {
@@ -15,4 +14,47 @@
   height: 80px;
   width: 80%;
   padding: 0 1.5rem
+}
+
+.presentation-container {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  padding: 0 80px 0 80px
+}
+
+.presentation-title {
+  font-size: 7rem;
+  font-weight: 700;
+  text-shadow: 10px 4px rgba(0, 0, 0, 0.25);
+}
+
+.presentation-title-img {
+  width: 5rem
+}
+
+.presentation-text {
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+}
+
+.presentation-link {
+  display: inline-block;
+  border: 2px solid var(--black);
+  border-radius: 100px;
+  padding: 1rem 3rem;
+  margin: 1rem 0px;
+  background-color: var(--orange);
+  font-weight: 500;
+}
+
+.presentation-img {
+  width: 50%;;
+}
+
+.header-img {
+  width: 15%;
+  position: relative;
+  left: 75%
+
 }
