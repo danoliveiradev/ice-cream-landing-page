@@ -25,36 +25,19 @@
 
 .presentation-title {
   font-size: 7rem;
-  font-weight: 700;
-  text-shadow: 10px 4px rgba(0, 0, 0, 0.25);
 }
 
 .presentation-title-img {
   width: 5rem
 }
 
-.presentation-text {
-  font-size: 1.2rem;
-  line-height: 1.8rem;
-}
-
-.presentation-link {
-  display: inline-block;
-  border: 2px solid var(--black);
-  border-radius: 100px;
-  padding: 1rem 3rem;
-  margin: 1rem 0px;
-  background-color: var(--orange);
-  font-weight: 500;
-}
-
 .presentation-img {
   width: 50%;;
 }
 
-.header-img {
-  width: 15%;
+.ice-cream-rainbow-img {
+  width: 20%;
   position: relative;
-  left: 75%
-
+  left: 75%;
+  top: 40px;
 }
