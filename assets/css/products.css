@@ -1,6 +1,7 @@
 .products {
   text-align: center;
   background-color: var(--pink);
+  padding: 2rem;
 }
 
 .products_title {
@@ -19,15 +20,17 @@
   background-color: var(--light-gray);
   border-radius: 20px;
   max-width: 445px;
-  margin-top: 8rem;
+  height: 500px;
+  margin: 8rem 1rem 1rem 1rem;
   padding: 1rem;
+
 }
 
 .card_img_main {
   position: absolute;
-  top: -28%;
+  top: -20%;
   left: 5%;
-  width: 90%;
+  max-width: 90%;
 }
 
 .card_title {
