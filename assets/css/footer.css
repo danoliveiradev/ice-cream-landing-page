@@ -1,0 +1,50 @@
+.container-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--orange);
+}
+
+.footer-logo {
+  width: 12%;
+}
+
+.nav-footer {
+  border-left: 2px solid var(--black);
+  border-right: 2px solid var(--black);
+  padding: 0 8rem 0 1rem;
+  margin-left: 5rem;
+}
+
+.footer-link {
+  display: block;
+  padding: .5rem 0;
+}
+
+.footer-form {
+  margin-left: 1rem
+}
+
+.subscribe-email,
+.btn-subscribe-submit {
+  font: var(--font);
+  font-size: 1.2rem;
+  border-style: none;
+  border: 2px solid var(--black);
+  border-radius: 8px;
+  padding: .5rem;
+}
+
+.btn-subscribe-submit {
+  color: var(--orange);
+  background-color: var(--black);
+  margin-left: 1rem;
+  cursor: pointer;
+}
+
+.design-development {
+  color: var(--white);
+  text-align: center;
+  background-color: var(--black);
+  padding: 1rem 0;
+}
