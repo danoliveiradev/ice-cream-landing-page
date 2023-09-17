@@ -1,0 +1,41 @@
+.contacts-decoration-crem {
+  margin-top: 6rem;
+  width: 100%;
+}
+
+.container-contacts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-email, .send-contacts {
+  border-style: none;
+  border: 2px solid var(--black); 
+  font-size: 1.5rem;
+  font-family: var(--font);
+  padding: 1rem 1rem;
+  border-radius: 8px;
+  margin-right: 1rem;
+}
+
+.send-contacts {
+  background-color: var(--orange); 
+}
+
+.container-social {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  width: 200px;
+  margin-top: 1rem;
+}
+
+.contacts-social {
+  width: 70%;
+}
+
+.img-contacts {
+  width: 300px;
+  margin-left: 2rem;
+}

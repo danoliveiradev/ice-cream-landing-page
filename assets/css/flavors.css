@@ -36,36 +36,41 @@
 .flavor-vanilla {
   background-color: var(--ligth-yellow);
   -webkit-transform: translateY(12px) rotate(-9deg);
+  transform: translateY(12px) rotate(-9deg);
 }
 
 .flavor-blueberry {
   background-color: var(--purple);
   -webkit-transform: translateY(-15px) rotate(-6deg);
+  transform: translateY(-15px) rotate(-6deg);
 }
 
 .flavor-chocolate {
   background-color: var(--brown);
   -webkit-transform: translateY(-30px) rotate(-2deg);
+  transform: translateY(-30px) rotate(-2deg);
 }
 
 .flavor-strawberry {
   background-color: var(--medium-pink);
   -webkit-transform: translateY(-30px) rotate(1deg);
+  transform: translateY(-30px) rotate(1deg);
 }
 
 .flavor-pistachio {
   background-color: var(--green);
   -webkit-transform: translateY(-18px) rotate(5deg);
+  transform: translateY(-18px) rotate(5deg);
 }
 
 .flavor-mango {
   background-color: var(--orange);
   -webkit-transform: translateY(8px) rotate(9deg);
+  transform: translateY(8px) rotate(9deg);
 }
 
 .container-flor-description {
   display: flex;
-
   align-items: center;
   justify-content: space-around;
   background-image: linear-gradient(transparent, var(--light-gray) 80%);
