@@ -5,7 +5,7 @@
 
 ## 📝 **Descrição**
 
-Desenvolvimento de uma página web de um sorveteria. [Designe](https://www.figma.com/community/file/1250444258000913226/Ice-Cream-Landing-Page) idealizado por [Rabia Mirza](https://www.figma.com/@rabiamirxa).
+Desenvolvimento de uma página web de sorveteria. [Designe](https://www.figma.com/community/file/1250444258000913226/Ice-Cream-Landing-Page) idealizado por [Rabia Mirza](https://www.figma.com/@rabiamirxa).
 
 <p align="center">
   <img src="" alt="Image of the web page"/>
