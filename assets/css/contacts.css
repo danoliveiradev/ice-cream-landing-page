@@ -1,3 +1,8 @@
+.contactes {
+  background-color: var(--pink);
+  padding-bottom: 4rem;
+}
+
 .contacts-decoration-crem {
   margin-top: 6rem;
   width: 100%;
@@ -21,6 +26,7 @@
 
 .send-contacts {
   background-color: var(--orange); 
+  cursor: pointer;
 }
 
 .container-social {
